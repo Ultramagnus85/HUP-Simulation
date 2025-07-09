@@ -7,7 +7,7 @@
 An empirically validated golden-ratio–driven simulation that visually decodes the structural mechanics behind quantum behavior and Schrödinger’s equation. This mathematically rigorous framework offers a modern replacement for existing quantum physics models, revealing the harmonic foundations of coherence, entanglement, and measurement thresholds.
 
 ## Live Simulation  
-🌐[Viewthesimlationhere(https://ultramagnus85.github.io
+🌐[Viewthesimlationhere(https://Ultramagnus85.github.io
 
 ## License  
 This project is licensed under the Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0).
