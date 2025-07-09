@@ -1,0 +1,33 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+__MACOSX/
+
+# IDE/project files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Log/cache files
+*.log
+.cache/
+*.tmp
+
+# Build output (if bundling is added later)
+dist/
+build/
+
+# Node modules (if you add JavaScript frameworks later)
+node_modules/
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# Environment secrets
+.env
+.env.local
+.env.*.local
