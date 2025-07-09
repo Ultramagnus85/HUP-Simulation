@@ -14,3 +14,5 @@ This project is licensed under the Creative Commons Attribution–NoDerivatives 
 
 ## Contact  
 Robert E. Quarles — 2025
+📧 Email: rquarles85@gmail.com  
+🔗 GitHub: [@Ultramagnus85](https://github.com/Ultramagnus85)
